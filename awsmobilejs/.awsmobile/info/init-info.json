@@ -1,0 +1,62 @@
+{
+	"projectPath": "/Users/jimvickery/react_native/RNAuth",
+	"backupAWSMobileJSDirPath": "/Users/jimvickery/react_native/RNAuth/~awsmobilejs-2018-09-06-20-05-05",
+	"projectInfo": {
+		"ProjectName": "RNAuth",
+		"ProjectPath": "/Users/jimvickery/react_native/RNAuth",
+		"InitializationTime": "",
+		"LastConfigurationTime": "",
+		"LastNPMInstallTime": "",
+		"FrontendLastBuildTime": "",
+		"LastPublishTime": "",
+		"BackendLastSyncTime": "",
+		"BackendLastBuildTime": "",
+		"BackendLastPushTime": "",
+		"BackendProjectID": "",
+		"BackendProjectName": "",
+		"BackendProjectConsoleUrl": "",
+		"BackendProjectCreationTime": "",
+		"BackendProjectLastUpdatedTime": "",
+		"Framework": "react-native"
+	},
+	"projectConfig": {
+		"SourceDir": "/",
+		"DistributionDir": "/",
+		"BuildCommand": "npm run-script build",
+		"StartCommand": "npm run-script start"
+	},
+	"packageJson": {
+		"name": "RNAuth",
+		"version": "0.1.0",
+		"private": true,
+		"devDependencies": {
+			"jest-expo": "~27.0.0",
+			"react-native-scripts": "1.14.0",
+			"react-test-renderer": "16.3.1"
+		},
+		"main": "./node_modules/react-native-scripts/build/bin/crna-entry.js",
+		"scripts": {
+			"start": "react-native-scripts start",
+			"eject": "react-native-scripts eject",
+			"android": "react-native-scripts android",
+			"ios": "react-native-scripts ios",
+			"test": "jest"
+		},
+		"jest": {
+			"preset": "jest-expo"
+		},
+		"dependencies": {
+			"aws-amplify": "^1.0.8",
+			"expo": "^27.0.1",
+			"react": "16.3.1",
+			"react-native": "~0.55.2",
+			"react-navigation": "^2.13.0",
+			"react-redux": "^5.0.7",
+			"redux": "^4.0.0",
+			"redux-thunk": "^2.3.0"
+		}
+	},
+	"framework": "react-native",
+	"initialStage": "invalid",
+	"strategy": "create"
+}
